@@ -4,6 +4,12 @@
 
 It follows a program from the vehicle maker's enquiry to start of production (SOP): RFI / RFQ, quote, award, BOM freeze, supplier onboarding, purchase orders, PPAP and production readiness. The point of the product is to name what will make a program miss SOP while there is still time to do something about it.
 
+## Live demo
+
+Deployed on Vercel: **https://kraya-self.vercel.app/login**
+
+Demo login: `operator@kraya.ai` / `command`
+
 ## Domain and roles
 
 The demo tenant is **Auralis Mobility Electronics**, a fictional Tier-1 supplier in India that builds ADAS cameras, telematics units, battery management modules, CAN gateways, instrument clusters, headlamp controllers, TPMS sensors and radar units for six fictional OEMs. It buys semiconductors, passives, connectors, PCBs, optics, die-cast housings, seals and harnesses from 32 suppliers and builds at 8 EMS partners in Pune, Chennai, Hosur, Manesar and Sanand.
